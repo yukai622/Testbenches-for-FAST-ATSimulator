@@ -1,6 +1,5 @@
 /******************************************************/
 /***This file is used to simulated in systemc-ams. ****/
-/***                  Yukai Chen                   ****/
 /***                     EDA                       ****/
 /******************************************************/
 
@@ -8,7 +7,8 @@
 
 
 
-#define NUM 
+#define NUM 6000
+
 SCA_TDF_MODULE (testbench)
 {
 		 //Interface declaration: output
