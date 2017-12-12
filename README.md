@@ -22,4 +22,8 @@ Steady state analysis determines the temperature distribution based on a power d
 
 (*Concerning the concurrent simluation with other different extra-functional properties, please refer to : *Vinco, S., Chen, Y., Fummi, F., Macii, E. and Poncino, M., 2017. A Layered Methodology for the Simulation of Extra-Functional Properties in Smart Systems. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.* )
 
+##### Please reference any paper we list here if you use this tool to run your thermal simualtion or build thermal model:
 
+>Chen, Y., Vinco, S., Macii, E. and Poncino, M., 2016, May. Fast thermal simulation using SystemC-AMS. In Great Lakes Symposium on VLSI, 2016 International (pp. 427-432). IEEE.
+
+>Vinco, S., Chen, Y., Fummi, F., Macii, E. and Poncino, M., 2017. A Layered Methodology for the Simulation of Extra-Functional Properties in Smart Systems. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
