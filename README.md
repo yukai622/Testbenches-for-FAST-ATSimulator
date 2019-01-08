@@ -27,3 +27,5 @@ Steady state analysis determines the temperature distribution based on a power d
 >Chen, Y., Vinco, S., Macii, E. and Poncino, M., 2016, May. Fast thermal simulation using SystemC-AMS. In Great Lakes Symposium on VLSI, 2016 International (pp. 427-432). IEEE.
 
 >Vinco, S., Chen, Y., Fummi, F., Macii, E. and Poncino, M., 2017. A Layered Methodology for the Simulation of Extra-Functional Properties in Smart Systems. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
+
+>Chen, Y., Vinco, S., Macii, E. and Poncino, M., 2018. SystemC-AMS Thermal Modeling for the Co-simulation of Functional and Extra-Functional Properties. ACM Transactions on Design Automation of Electronic Systems (TODAES), 24(1), p.4.
